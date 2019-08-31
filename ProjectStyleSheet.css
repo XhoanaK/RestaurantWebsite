@@ -1,0 +1,86 @@
+﻿#header {
+    position: absolute;
+    width: 100%;
+    height: 370px;
+    top: 0px;
+    left: 0px;
+    background-color: #0e2f7e;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 120px;
+    text-align: center;
+    border-bottom: solid 2px;
+    text-align: center;
+    color: white;
+      
+}
+
+
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
+}
+
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: grey
+}
+
+
+
+#nav {
+    position: absolute;
+    width: 100px;
+    overflow-y: auto;
+    top: 380px;
+    left: 0;
+    background-color: #3975d6;
+}
+
+#content {
+    position: absolute;
+    width: 85%;
+    overflow: scroll;
+    top: 380px;
+    left: 110px;
+    background-color: #d2d7f9;
+
+}
+
+#menu {
+    position: absolute;
+    width: 100px;
+    height: 860px;
+    top: 310px;
+    left: 0;
+    background-color: black
+}
+
+a:hover {
+    background-color: black;
+    color: #fffffe;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    margin: 0px;
+    width: 90px;
+    height: 52px
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+
+
